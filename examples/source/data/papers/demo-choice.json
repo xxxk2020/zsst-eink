@@ -1,0 +1,10 @@
+{
+  "v":1,"id":"demo-choice-v1","kind":"drill","subject":"行测","title":"原创演示 · 三道选择题",
+  "figs":{"diagram":"images/diagram.png"},
+  "materials":[{"no":1,"text":"某社区两天回收的纸张质量分别为 12 千克和 18 千克。以下两题共用这一段原创材料。"}],
+  "questions":[
+    {"no":1,"type":"资料分析","mats":[1],"stem":"两天共回收多少千克纸张？","options":["24","26","28","30"],"answer":"D","explain":"12 + 18 = 30 千克。"},
+    {"no":2,"type":"资料分析","mats":[1],"stem":"第二天比第一天多回收百分之几？","options":["25%","50%","60%","75%"],"answer":"B","explain":"增量为 6 千克，6 ÷ 12 = 50%。"},
+    {"no":3,"type":"图形观察","stem":"观察示意图，矩形内部一共有几个圆？","imgs":["diagram"],"options":["1 个","2 个","3 个","4 个"],"answer":"C","explain":"逐个数出矩形内的三个圆。该图由项目工具原创生成。"}
+  ]
+}

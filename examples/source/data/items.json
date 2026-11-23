@@ -1,0 +1,4 @@
+[
+  {"id":"demo-choice-v1","kind":"drill","subject":"行测","title":"原创演示 · 三道选择题","course":"原创示例","file":"data/papers/demo-choice.json"},
+  {"id":"demo-writing-v1","kind":"drill","subject":"申论","title":"原创演示 · 材料阅读","course":"原创示例","file":"data/papers/demo-writing.json"}
+]
